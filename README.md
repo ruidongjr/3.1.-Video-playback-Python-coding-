@@ -8,4 +8,5 @@ play videos (at least .mp4 files) at a configurable framerate, resolution and co
 
     step 1: Input configurable arguments
             It is capable of using IDE (1.1) and command line(1.2)
+            
     step 2: Play videos
