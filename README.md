@@ -1,7 +1,7 @@
 # 3.1.-Video-playback-Python-coding-
 Play videos (at least .mp4 files) at a configurable framerate, resolution and colour.
 
-
+## Description:
 3. Video processing
 
     3.1. Video playback
@@ -13,5 +13,5 @@ Play videos (at least .mp4 files) at a configurable framerate, resolution and co
             
     ### step 2: Play videos
     
-    ## Requirements:
-    install python package: cv2
+## Requirements:
+install python package: cv2
