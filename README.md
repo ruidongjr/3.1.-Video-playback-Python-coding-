@@ -8,8 +8,10 @@ Play videos (at least .mp4 files) at a configurable framerate, resolution and co
     
     This script has functions of play/pause/playback.
 
-    step 1: Input configurable arguments.
-    
-            It is capable of using IDE (1.1) and command line(1.2)
+    ### step 1: Input configurable arguments
+    It is capable of using IDE (1.1) and command line(1.2)
             
-    step 2: Play videos
+    ### step 2: Play videos
+    
+    ## Requirements:
+    install python package: cv2
